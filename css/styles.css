@@ -106,6 +106,10 @@ ul {
   margin: auto;
 }
 
+.skills{
+  margin-bottom: 100px;
+}
+
 .skill1{
   height: 200px;
   float: left;
@@ -120,7 +124,7 @@ ul {
 
 .projects{
   width: 50%;
-  margin: 100px auto 75px auto;
+  margin: 100px auto 150px auto;
   text-align: left;
 }
 
@@ -128,7 +132,7 @@ ul {
   height: 150px;
   width: 250px;
   float: left;
-  margin: 0px 30px;
+  margin: 0px 40px;
 }
 
 .project-link{
